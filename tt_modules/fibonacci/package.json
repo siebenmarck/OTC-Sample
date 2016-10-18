@@ -1,0 +1,9 @@
+{
+  "name": "fibonacci",
+  "description": "Calculates fibonacci numbers",
+  "version": "1.0",
+  "author": {
+    "name": "Oliver Siebenmarck",
+    "email": "siebenmarck@de.ibm.com"
+  }
+}

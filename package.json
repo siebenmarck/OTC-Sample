@@ -1,0 +1,21 @@
+{
+  "name": "OTC sample application",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "body-parser": "1.0.1",
+    "errorhandler": "*"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.4"
+  }
+}
